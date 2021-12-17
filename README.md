@@ -16,3 +16,5 @@ If youre using a windows I recommend to use a bash command instead of the comman
 
 1. Clone repository to your computer
 2. Write the code
+
+hej på dig
